@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Biostatistics with R",
+    "section": "",
+    "text": "1 Biostatistics with R\nWelcome to Biostatistics with R, an online learning resource designed to introduce the principles and practice of biostatistics using R.\nThis book is intended for students, researchers, and health professionals who want to develop practical skills in understanding, analyzing, and presenting health and medical research data.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Biostatistics-with-R</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#what-you-will-learn",
+    "href": "index.html#what-you-will-learn",
+    "title": "Biostatistics with R",
+    "section": "1.1 What you will learn",
+    "text": "1.1 What you will learn\nThroughout this book, you will learn how to:\n\nUnderstand different types of data used in medical research\nSummarize and visualize data\nUnderstand probability and statistical distributions\nConduct inferential statistical analyses\nUnderstand study designs and sampling methods\nSelect and apply appropriate statistical tests\nBuild and interpret regression models\nAnalyze survival data\nEvaluate diagnostic tests\nHandle missing data\nReport statistical results clearly\nConduct reproducible analyses using R\n\nThe examples throughout the book will use R and RStudio, with an emphasis on practical applications in medical and health research.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Biostatistics-with-R</span>"
+    ]
+  }
+]

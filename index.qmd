@@ -2,6 +2,27 @@
 title: "Biostatistics-with-R"
 ---
 
-This is a Quarto website.
+# Biostatistics with R
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to **Biostatistics with R**, an online learning resource designed to introduce the principles and practice of biostatistics using R.
+
+This book is intended for students, researchers, and health professionals who want to develop practical skills in understanding, analyzing, and presenting health and medical research data.
+
+## What you will learn
+
+Throughout this book, you will learn how to:
+
+- Understand different types of data used in medical research
+- Summarize and visualize data
+- Understand probability and statistical distributions
+- Conduct inferential statistical analyses
+- Understand study designs and sampling methods
+- Select and apply appropriate statistical tests
+- Build and interpret regression models
+- Analyze survival data
+- Evaluate diagnostic tests
+- Handle missing data
+- Report statistical results clearly
+- Conduct reproducible analyses using R
+
+The examples throughout the book will use **R and RStudio**, with an emphasis on practical applications in medical and health research.

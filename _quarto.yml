@@ -1,13 +1,31 @@
 project:
-  type: website
+  type: book
 
-website:
-  title: "Biostatistics-with-R"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+book:
+  title: "Biostatistics with R"
+  author: "Corneille Ntihabose"
+
+  chapters:
+    - index.qmd
+    - 01-overview.qmd
+    - 02-overview-github.qmd
+    - 03-types-of-data.qmd
+    - 04-descriptive-statistics.qmd
+    - 05-probability-distributions.qmd
+    - 06-inferential-statistics.qmd
+    - 07-study-designs-sampling.qmd
+    - 08-epidemiological-measures.qmd
+    - 09-statistical-tests.qmd
+    - 10-regression.qmd
+    - 11-survival-analysis.qmd
+    - 12-diagnostic-tests.qmd
+    - 13-missing-data.qmd
+    - 14-reporting-results.qmd
+    - 15-reproducible-research.qmd
+
+  sidebar:
+    style: docked
+    background: light
 
 format:
   html:
@@ -16,6 +34,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
